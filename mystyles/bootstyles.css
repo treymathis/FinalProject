@@ -1,0 +1,33 @@
+
+nav {
+    /* top: 45px; */
+    background-color: lightblue;
+    left: 6px;
+    right: 6px;
+    height: 120px;
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    z-index: 2;
+    border-bottom: dotted 4px #555555;
+}
+
+main {
+    text-align: center;
+    background-color: lightblue;
+    color: white;
+    text-decoration: underline;
+    font-size: large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.footer {
+    bottom: 5px;
+    height: 20px;
+    left: 5px; 
+    right: 5px;
+    text-align: center;
+    font-size: 15px;
+    position: fixed;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

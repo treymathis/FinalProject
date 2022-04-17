@@ -1,0 +1,39 @@
+/* My custom Styles */
+/* .navBackground { */
+/* background-color: lightblue; */
+/* } */
+
+header {
+    color: lightblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-color: lightblue;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+header.masthead {
+    background-image: url('../Images/img/background.jpeg')
+    
+}
+
+header.masthead.homeback {
+    background-image: url('../Images/img/homeback.jpg')
+}
+
+header.masthead.aboutme {
+    background-image: url('../Images/img/homeback.jpg')
+}
+
+a, .post-preview > a {
+    color: blue;
+    text-decoration:underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#mainNav {
+    background-color: lightblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
